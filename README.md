@@ -49,9 +49,9 @@ A 40-week full-stack engineering and AI/ML build path. Structured around real pr
 
 ## Currently Working On
 
-- 🔨 Starting **Phase 03 — Product Builds**: shipping AI-powered tools and applications
+- 🔨 Starting **Phase 03: Product Builds**: shipping AI-powered tools and applications. currently building a business lead gen app.
 - 🧠 Expanding into **deep learning systems** and **production-grade NLP pipelines**
-- 🚀 Building toward **end-to-end deployed AI applications** (RAG systems, domain-specific assistants, API-driven tools, web apps, and custom business solutions)
+- 🚀 Building toward **end-to-end deployed AI applications** (RAG systems, domain-specific assistants, API-driven tools, Agents, web apps, and custom business solutions)
 
 ---
 
