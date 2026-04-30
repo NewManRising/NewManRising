@@ -1,6 +1,6 @@
 # Hi, my name is Dylan.
 
-**Jr. ML Engineer** building applied AI systems — from raw data to working products.
+**Jr. ML Engineer** building applied AI systems from raw data to working products.
 
 ---
 
@@ -43,7 +43,7 @@ A structured, phased body of applied ML work. Covers data preparation, feature e
 - **FAQ Embedding Chatbot** — Retrieval-based chatbot using embeddings and similarity search
 
 ### [The Builder Forge](https://github.com/NewManRising/the-builder-forge)
-A 40-week full-stack engineering and AI/ML build path — structured around real projects, APIs, ML pipelines, and deployed applications. Currently transitioning from foundations into product builds. Work in progress. 
+A 40-week full-stack engineering and AI/ML build path. Structured around real projects, APIs, ML pipelines, and deployed applications. Currently transitioning from foundations into product builds. Work in progress.
 
 ---
 
