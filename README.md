@@ -6,9 +6,11 @@ Jr. ML Engineer building applied AI systems from raw data to working products.
 
 ## About Me
 
-I'm a hands-on builder with a background that spans IT hardware, biology, and years of figuring things out the hard way. I completed the UT Dallas AI/ML Bootcamp (Full Stack Academy) and now I'm focused on shipping real AI-powered tools and products. Main goal: Become a full stack AI/ML developer.
+I'm a hands-on builder with a background that spans IT hardware, biology, and years of figuring things out the hard way. I completed the UT Dallas AI/ML Bootcamp (Full Stack Academy) and now I'm focused on shipping real AI-powered tools and products. 
 
-I care about clean pipelines, reproducible results, and code that someone else can actually read. I am also a crypto enthusiast and I like to keep up with the news and latest projects. 
+Main goal: Become a full stack AI/ML developer creating business and consumer solutions. 
+
+I care about clean pipelines, reproducible results, and code that someone else can actually read. I am also a crypto enthusiast and I like to keep up with the news and latest projects (mainly Solana)
 
 ---
 
@@ -21,6 +23,7 @@ I care about clean pipelines, reproducible results, and code that someone else c
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -32,7 +35,6 @@ I care about clean pipelines, reproducible results, and code that someone else c
 ## Currently Learning
 
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -51,6 +53,8 @@ A structured, phased body of applied ML work. Covers data preparation, feature e
 
 **Highlights:**
 - **ML API using FastAPI** - Trained, hypertuned, wrapped in pipeline, and saved model. Used FastAPI to create an app that uses this model (bank loan risk prediction and score). Live link: https://ai-ml-apprenticeship.onrender.com/docs
+- **Yelp Lead Gen web app** - Built a backend with FastAPI, connected it to an external API (Yelp), added a UI with Streamlit and deployed it on Render.
+  Live link: https://yelp-lead-gen.onrender.com/
 
 ### [The Builder Forge](https://github.com/NewManRising/the-builder-forge)
 A 40-week full-stack engineering and AI/ML build path. Structured around real projects, APIs, ML pipelines, and deployed applications. Currently transitioning from foundations into product builds. Work in progress.
@@ -59,7 +63,7 @@ A 40-week full-stack engineering and AI/ML build path. Structured around real pr
 
 ## Currently Working On
 
-- Starting **Phase 03: Product Builds**: shipping AI-powered tools and applications. Currently building a business lead gen app.
+- Starting **Phase 03: Product Builds**: shipping AI-powered tools and applications. Lead Gen MVP is done. Working on new version with new features. 
 - Expanding into deep learning systems and production-grade NLP pipelines.
 - Building toward end-to-end deployed AI applications (RAG systems, domain-specific assistants, API-driven tools, Agents, web apps, and custom business solutions).
 
