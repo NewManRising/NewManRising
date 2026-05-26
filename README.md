@@ -6,11 +6,11 @@ Jr. ML Engineer building applied AI systems from raw data to working products.
 
 ## About Me
 
-I'm a hands-on builder with a background that spans IT hardware, biology, and years of figuring things out the hard way. I completed the UT Dallas AI/ML Bootcamp (Full Stack Academy) and now I'm focused on shipping real AI-powered tools and products. 
+I'm a hands-on builder with a background that spans IT hardware, copywriting, biology, and years of figuring things out the hard way. I completed the UT Dallas AI/ML Bootcamp (Full Stack Academy) and now I'm focused on shipping real AI-powered tools and products. 
 
-Main goal: Become a full stack AI/ML developer creating business and consumer solutions. 
+Main goal: Become a full stack AI/ML developer building custom solutions for businesses and consumers. My tech stack core will focus on React, FastAPI, Python, and PostgreSQL. 
 
-I care about clean pipelines, reproducible results, and code that someone else can actually read. I am also a crypto enthusiast and I like to keep up with the news and latest projects (mainly Solana)
+I care about clean pipelines, reproducible results, and code that someone else can actually read. I am also a crypto fan and I like to keep up with the news and latest projects (mainly Solana).
 
 ---
 
@@ -55,6 +55,7 @@ A structured, phased body of applied ML work. Covers data preparation, feature e
 - **ML API using FastAPI** - Trained, hypertuned, wrapped in pipeline, and saved model. Used FastAPI to create an app that uses this model (bank loan risk prediction and score). Live link: https://ai-ml-apprenticeship.onrender.com/docs
 - **Yelp Lead Gen web app** - Built a backend with FastAPI, connected it to an external API (Yelp), added a UI with Streamlit and deployed it on Render.
   Live link: https://yelp-lead-gen.onrender.com/
+- **Lead Gen Google v0.2** - Enhanced lead gen MVP by swapping out Yelp API and using Google Places TextSearch API for lead discovery. Added an .xlsx download button. Results provide cleaner website URLs now. The app was launched on Render but is currently private. You can look at the build here:   [Google Lead Gen App v0.2](https://github.com/NewManRising/ai-ml-apprenticeship/tree/main/phase03-product-builds/business-leadgen/leadgen-v02-google)
 
 ### [The Builder Forge](https://github.com/NewManRising/the-builder-forge)
 A 40-week full-stack engineering and AI/ML build path. Structured around real projects, APIs, ML pipelines, and deployed applications. Currently transitioning from foundations into product builds. Work in progress.
@@ -63,7 +64,7 @@ A 40-week full-stack engineering and AI/ML build path. Structured around real pr
 
 ## Currently Working On
 
-- Starting **Phase 03: Product Builds**: shipping AI-powered tools and applications. Lead Gen MVP is done. Working on new version with new features. 
+- Starting **Phase 03: Product Builds**: shipping AI-powered tools and applications. I finished the Google Lead Gen App v0.2 and I am working on adding an AI layer now. 
 - Expanding into deep learning systems and production-grade NLP pipelines.
 - Building toward end-to-end deployed AI applications (RAG systems, domain-specific assistants, API-driven tools, Agents, web apps, and custom business solutions).
 
