@@ -8,7 +8,7 @@ Jr. ML Engineer building applied AI systems from raw data to working products.
 
 I'm a hands-on builder with a background that spans IT hardware, copywriting, biology, and years of figuring things out the hard way. I completed the UT Dallas AI/ML Bootcamp (Full Stack Academy) and now I'm focused on shipping real AI-powered tools and products. 
 
-Main goal: Become a full stack AI/ML developer building custom solutions for businesses and consumers. My tech stack core will focus on React, FastAPI, Python, and PostgreSQL. 
+Main goal: Become a full stack AI/ML developer. My tech stack core will focus on React, FastAPI, Python, and PostgreSQL. 
 
 I care about clean pipelines, reproducible results, and code that someone else can actually read. I am also a crypto fan and I like to keep up with the news and latest projects (mainly Solana).
 
@@ -52,13 +52,16 @@ I care about clean pipelines, reproducible results, and code that someone else c
 A structured, phased body of applied ML work. Covers data preparation, feature engineering, model evaluation, model tuning, model persistance, and deployment. Still a work in progress and each phase builds upon the last.
 
 **Highlights:**
-- **ML API using FastAPI** - Trained, hypertuned, wrapped in pipeline, and saved model. Used FastAPI to create an app that uses this model (bank loan risk prediction and score). Live link: https://ai-ml-apprenticeship.onrender.com/docs
+- **ML API using FastAPI** - Trained, hypertuned, wrapped in pipeline, and saved model. Used FastAPI to create an app that uses this model (bank loan risk prediction and score). Live link: [FastAPI ML API](https://ai-ml-apprenticeship.onrender.com/docs)
 - **Yelp Lead Gen web app** - Built a backend with FastAPI, connected it to an external API (Yelp), added a UI with Streamlit and deployed it on Render.
-  Live link: https://yelp-lead-gen.onrender.com/
+  Live link: [Yelp Lead Gen Web App](https://yelp-lead-gen.onrender.com/)
 - **Lead Gen Google v0.2** - Enhanced lead gen MVP by swapping out Yelp API and using Google Places TextSearch API for lead discovery. Added an .xlsx download button. Results provide cleaner website URLs now. The app was launched on Render but is currently private. You can look at the build here:   [Google Lead Gen App v0.2](https://github.com/NewManRising/ai-ml-apprenticeship/tree/main/phase03-product-builds/business-leadgen/leadgen-v02-google)
 
 ### [The Builder Forge](https://github.com/NewManRising/the-builder-forge)
 A 40-week full-stack engineering and AI/ML build path. Structured around real projects, APIs, ML pipelines, and deployed applications. Currently transitioning from foundations into product builds. Work in progress.
+
+**Highlights:**
+- **Employee Attrition API** - Retrained my bootcamp notebook models with Kaggle's IBM HR Attrition dataset. I broke up sections of the notebook into their own scripts to make it modular. After training and evaluating, I saved the best model (gradient boosting) and used that to connect a FastAPI endpoint that makes predictions. See the build here: [Employee Attrition ML API](https://github.com/NewManRising/the-builder-forge/tree/main/projects/employee-attrition)
 
 ---
 
