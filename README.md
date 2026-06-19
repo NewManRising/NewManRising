@@ -63,6 +63,8 @@ A 40-week full-stack engineering and AI/ML build path. Structured around real pr
 **Highlights:**
 - **Employee Attrition API** - Retrained my bootcamp notebook models with Kaggle's IBM HR Attrition dataset. I broke up sections of the notebook into their own scripts to make it modular. After training and evaluating, I saved the best model (gradient boosting) and used that to connect a FastAPI endpoint that makes predictions. See the build here: [Employee Attrition ML API](https://github.com/NewManRising/the-builder-forge/tree/main/projects/employee-attrition)
 
+- **UCI Online Retail Sales Analysis** - Using an old notebook, I swapped out the synthetic data and replaced it with the UCI Retail dataset. Most of the original code was reused. The project features EDA, charts, summary tables, and a report with insights. No models trained, purely data science. See the project here: [UCI Sales Analysis](https://github.com/NewManRising/the-builder-forge/tree/main/projects/retail-sales-eda)
+
 ---
 
 ## Currently Working On
