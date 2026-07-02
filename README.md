@@ -65,6 +65,8 @@ A 40-week full-stack engineering and AI/ML build path. Structured around real pr
 
 - **UCI Online Retail Sales Analysis** - Using an old notebook, I swapped out the synthetic data and replaced it with the UCI Retail dataset. Most of the original code was reused. The project features EDA, charts, summary tables, and a report with insights. No models trained, purely data science. See the project here: [UCI Sales Analysis](https://github.com/NewManRising/the-builder-forge/tree/main/projects/retail-sales-eda)
 
+- **Home Loan Default Prediction** - Binary classification project using a Keras artificial neural network (ANN) to predict whether a borrower will default on a home equity loan. Trained on the HMEQ dataset from Kaggle with an 80/20 class imbalance. See it here: [Home Loan Default Prediction](https://github.com/NewManRising/the-builder-forge/tree/main/projects/home-loan-default)
+
 ---
 
 ## Currently Working On
