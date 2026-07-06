@@ -67,6 +67,8 @@ A 40-week full-stack engineering and AI/ML build path. Structured around real pr
 
 - **Home Loan Default Prediction** - Binary classification project using a Keras artificial neural network (ANN) to predict whether a borrower will default on a home equity loan. Trained on the HMEQ dataset from Kaggle with an 80/20 class imbalance. See it here: [Home Loan Default Prediction](https://github.com/NewManRising/the-builder-forge/tree/main/projects/home-loan-default)
 
+- **Ad Generator** - A Streamlit app that generates professional ad copy using Claude AI. Enter a product, audience, and tone, and get three ready-to-use ad variants in seconds. Uses custom CSS styling and has a download button to save ads. The app is currently private due to costs of API call. See the app here: [Streamlit App - Ad Generator ](https://github.com/NewManRising/the-builder-forge/tree/main/projects/ad-copy-generator)
+
 ---
 
 ## Currently Working On
