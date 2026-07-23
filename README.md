@@ -45,7 +45,6 @@ I care about clean pipelines, reproducible results, and code that someone else c
 
 
 ---
-
 ## Featured Work
 
 ### [AI/ML Apprenticeship](https://github.com/NewManRising/ai-ml-apprenticeship)
@@ -79,6 +78,18 @@ A 40-week full-stack engineering and AI/ML build path. Structured around real pr
 
 ---
 
+<table>
+  <tr>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=NewManRising&show_icons=true&theme=tokyonight&hide_border=true" width="500"/></td>
+    <td><img src="https://streak-stats.demolab.com/?user=NewManRising&theme=tokyonight&hide_border=true" width="500"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NewManRising&layout=compact&theme=tokyonight&hide_border=true" width="500"/></td>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=NewManRising&theme=tokyo-night&hide_border=true" width="500"/></td>
+  </tr>
+</table>
+
+---
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylanmartin25/)
