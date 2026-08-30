@@ -56,17 +56,13 @@ A structured, phased body of applied ML work. Covers data preparation, feature e
   Live link: [Yelp Lead Gen Web App](https://yelp-lead-gen.onrender.com/)
 - **Lead Gen Google v0.2** - Enhanced lead gen MVP by swapping out Yelp API and using Google Places TextSearch API for lead discovery. Added an .xlsx download button. Results provide cleaner website URLs now. The app was launched on Render but is currently private. You can look at the build here:   [Google Lead Gen App v0.2](https://github.com/NewManRising/ai-ml-apprenticeship/tree/main/phase03-product-builds/business-leadgen/leadgen-v02-google)
 
-### [The Builder Forge](https://github.com/NewManRising/the-builder-forge)
-A 40-week full-stack engineering and AI/ML build path. Structured around real projects, APIs, ML pipelines, and deployed applications. Currently transitioning from foundations into product builds. Work in progress.
+- **UCI Online Retail Sales Analysis** - Using an old notebook, I swapped out the synthetic data and replaced it with the UCI Retail dataset. Most of the original code was reused. The project features EDA, charts, summary tables, and a report with insights. No models trained, purely data science. See the project here: [UCI Sales Analysis](https://github.com/NewManRising/retail-sales-eda)
 
-**Highlights:**
-- **Employee Attrition API** - Retrained my bootcamp notebook models with Kaggle's IBM HR Attrition dataset. I broke up sections of the notebook into their own scripts to make it modular. After training and evaluating, I saved the best model (gradient boosting) and used that to connect a FastAPI endpoint that makes predictions. See the build here: [Employee Attrition ML API](https://github.com/NewManRising/the-builder-forge/tree/main/projects/employee-attrition)
+- **Home Loan Default Prediction** - Binary classification project using a Keras artificial neural network (ANN) to predict whether a borrower will default on a home equity loan. Trained on the HMEQ dataset from Kaggle with an 80/20 class imbalance. See it here: [Home Loan Default Prediction](https://github.com/NewManRising/home-loan-default-prediction)
 
-- **UCI Online Retail Sales Analysis** - Using an old notebook, I swapped out the synthetic data and replaced it with the UCI Retail dataset. Most of the original code was reused. The project features EDA, charts, summary tables, and a report with insights. No models trained, purely data science. See the project here: [UCI Sales Analysis](https://github.com/NewManRising/the-builder-forge/tree/main/projects/retail-sales-eda)
+- **Ad Generator** - A Streamlit app that generates professional ad copy using Claude AI. Enter a product, audience, and tone, and get three ready-to-use ad variants in seconds. Uses custom CSS styling and has a download button to save ads. The app is currently private due to costs of API call. See the app here: [Streamlit App - Ad Generator ](https://github.com/NewManRising/ad-copy-generator)
 
-- **Home Loan Default Prediction** - Binary classification project using a Keras artificial neural network (ANN) to predict whether a borrower will default on a home equity loan. Trained on the HMEQ dataset from Kaggle with an 80/20 class imbalance. See it here: [Home Loan Default Prediction](https://github.com/NewManRising/the-builder-forge/tree/main/projects/home-loan-default)
-
-- **Ad Generator** - A Streamlit app that generates professional ad copy using Claude AI. Enter a product, audience, and tone, and get three ready-to-use ad variants in seconds. Uses custom CSS styling and has a download button to save ads. The app is currently private due to costs of API call. See the app here: [Streamlit App - Ad Generator ](https://github.com/NewManRising/the-builder-forge/tree/main/projects/ad-copy-generator)
+- **Employee Attrition API** - Retrained my bootcamp notebook models with Kaggle's IBM HR Attrition dataset. I broke up sections of the notebook into their own scripts to make it modular. After training and evaluating, I saved the best model (gradient boosting) and used that to connect a FastAPI endpoint that makes predictions. See the build here: [Employee Attrition ML API](https://github.com/NewManRising/employee-attrition-api)
 
 ---
 
