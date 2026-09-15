@@ -1,17 +1,15 @@
 # Hi, my name is Dylan.
 
-Jr. ML Engineer building applied AI systems from raw data to working products.
+Jr. ML Engineer and Data Scientist building applied AI systems from raw data to working products.
 
 ---
 
 ## About Me
 
-I'm a hands-on builder with a background that spans IT hardware, copywriting, biology, and years of figuring things out the hard way. I completed the UT Dallas AI/ML Bootcamp (Full Stack Academy) and now I'm focused on shipping real AI-powered tools and products. 
+I'm a hands-on builder with a background that spans IT hardware, copywriting, biology, and years of figuring things out the hard way. I completed the UT Dallas AI/ML Bootcamp and now I'm focused on shipping real AI-powered tools and products. 
 
-Main goal: Become a full stack AI/ML developer. My tech stack core will focus on React, FastAPI, Python, and PostgreSQL. 
-
-I care about clean pipelines, reproducible results, and code that someone else can actually read. I am also a crypto fan and I like to keep up with the news and latest projects (mainly Solana).
-
+Currently learning React and PostgreSQL. I am also a crypto fan and I like to keep up with the news and latest projects (mainly Solana).
+ 
 ---
 
 ## Tech Stack
@@ -51,24 +49,23 @@ I care about clean pipelines, reproducible results, and code that someone else c
 A structured, phased body of applied ML work. Covers data preparation, feature engineering, model evaluation, model tuning, model persistance, and deployment. Still a work in progress and each phase builds upon the last.
 
 **Highlights:**
-- **ML API using FastAPI** - Trained, hypertuned, wrapped in pipeline, and saved model. Used FastAPI to create an app that uses this model (bank loan risk prediction and score). Live link: [FastAPI ML API](https://ai-ml-apprenticeship.onrender.com/docs)
-- **Yelp Lead Gen web app** - Built a backend with FastAPI, connected it to an external API (Yelp), added a UI with Streamlit and deployed it on Render.
+
+- **Yelp Lead Gen** - Built a backend with FastAPI, connected it to an external API (Yelp), added a UI with Streamlit and deployed it on Render.
   Live link: [Yelp Lead Gen Web App](https://yelp-lead-gen.onrender.com/)
-- **Lead Gen Google v0.2** - Enhanced lead gen MVP by swapping out Yelp API and using Google Places TextSearch API for lead discovery. Added an .xlsx download button. Results provide cleaner website URLs now. The app was launched on Render but is currently private. You can look at the build here:   [Google Lead Gen App v0.2](https://github.com/NewManRising/ai-ml-apprenticeship/tree/main/phase03-product-builds/business-leadgen/leadgen-v02-google)
-
-- **UCI Online Retail Sales Analysis** - Using an old notebook, I swapped out the synthetic data and replaced it with the UCI Retail dataset. Most of the original code was reused. The project features EDA, charts, summary tables, and a report with insights. No models trained, purely data science. See the project here: [UCI Sales Analysis](https://github.com/NewManRising/retail-sales-eda)
-
-- **Home Loan Default Prediction** - Binary classification project using a Keras artificial neural network (ANN) to predict whether a borrower will default on a home equity loan. Trained on the HMEQ dataset from Kaggle with an 80/20 class imbalance. See it here: [Home Loan Default Prediction](https://github.com/NewManRising/home-loan-default-prediction)
 
 - **Ad Generator** - A Streamlit app that generates professional ad copy using Claude AI. Enter a product, audience, and tone, and get three ready-to-use ad variants in seconds. Uses custom CSS styling and has a download button to save ads. The app is currently private due to costs of API call. See the app here: [Streamlit App - Ad Generator ](https://github.com/NewManRising/ad-copy-generator)
 
-- **Employee Attrition API** - Retrained my bootcamp notebook models with Kaggle's IBM HR Attrition dataset. I broke up sections of the notebook into their own scripts to make it modular. After training and evaluating, I saved the best model (gradient boosting) and used that to connect a FastAPI endpoint that makes predictions. See the build here: [Employee Attrition ML API](https://github.com/NewManRising/employee-attrition-api)
+- **Home Loan Default Prediction** - Binary classification project using a Keras artificial neural network (ANN) to predict whether a borrower will default on a home equity loan. Trained on the HMEQ dataset from Kaggle with an 80/20 class imbalance. See it here: [Home Loan Default Prediction](https://github.com/NewManRising/home-loan-default-prediction)
+
+- **ML API using FastAPI** - Trained, hypertuned, wrapped in pipeline, and saved model. Used a FastAPI endpoint that uses a machine learing model (bank loan risk prediction and score). DEPLOYED - Live link: [FastAPI ML API](https://ai-ml-apprenticeship.onrender.com/docs)
+
+- **Employee Attrition API** - Built with Kaggle IBM HR dataset and modularized scripts. After training and evaluating, I saved the best model (gradient boosting) and used that to connect a FastAPI endpoint that makes predictions. See the build here: [Employee Attrition ML API](https://github.com/NewManRising/employee-attrition-api)
 
 ---
 
 ## Currently Working On
 
-- Starting **Phase 03: Product Builds**: shipping AI-powered tools and applications. I finished the Google Lead Gen App v0.2 and I am working on adding an AI layer now. 
+- Starting Phase 04: LLM foundations, embeddings, and RAG
 - Expanding into deep learning systems and production-grade NLP pipelines.
 - Building toward end-to-end deployed AI applications (RAG systems, domain-specific assistants, API-driven tools, Agents, web apps, and custom business solutions).
 
