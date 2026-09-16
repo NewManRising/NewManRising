@@ -53,6 +53,9 @@ A structured, phased body of applied ML work. Covers data preparation, feature e
 - **Yelp Lead Gen** - Built a backend with FastAPI, connected it to an external API (Yelp), added a UI with Streamlit and deployed it on Render.
   Live link: [Yelp Lead Gen Web App](https://yelp-lead-gen.onrender.com/)
 
+ - **AI Sales Lead Gen** - Built upon the Yelp and Google lead gen, this app uses Open AI's gpt-5.6-luna model to enrich each lead with intelligent insights. Leads are collected using Google Places API, with a drop down menu to select a company for AI enrichment (company summary, products/services, sales insights, and reasoning for qualification. The app is restricted to demo-mode with examples leads to prevent real API usage. DEPLOYED - Live link: [AI Lead Gen](https://ai-sales-lead-gen.onrender.com/)
+NOTE: Render's free tier may take 30-60 seconds to respond, or occasionally return a temporary error. Retrying resolves it, subsequent requests are fast.
+
 - **Ad Generator** - A Streamlit app that generates professional ad copy using Claude AI. Enter a product, audience, and tone, and get three ready-to-use ad variants in seconds. Uses custom CSS styling and has a download button to save ads. The app is currently private due to costs of API call. See the app here: [Streamlit App - Ad Generator ](https://github.com/NewManRising/ad-copy-generator)
 
 - **Home Loan Default Prediction** - Binary classification project using a Keras artificial neural network (ANN) to predict whether a borrower will default on a home equity loan. Trained on the HMEQ dataset from Kaggle with an 80/20 class imbalance. See it here: [Home Loan Default Prediction](https://github.com/NewManRising/home-loan-default-prediction)
