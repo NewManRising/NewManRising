@@ -50,15 +50,11 @@ A structured, phased body of applied ML work. Covers data preparation, feature e
 
 **Highlights:**
 
-- **Yelp Lead Gen** - Built a backend with FastAPI, connected it to an external API (Yelp), added a UI with Streamlit and deployed it on Render.
-  Live link: [Yelp Lead Gen Web App](https://yelp-lead-gen.onrender.com/)
-
- - **AI Sales Lead Gen** - Built upon the Yelp and Google lead gen, this app uses Open AI's gpt-5.6-luna model to enrich each lead with intelligent insights. Leads are collected using Google Places API, with a drop down menu to select a company for AI enrichment (company summary, products/services, sales insights, and reasoning for qualification. The app is restricted to demo-mode with examples leads to prevent real API usage. DEPLOYED - Live link: [AI Lead Gen](https://ai-sales-lead-gen.onrender.com/)
+ - **AI Sales Lead Gen** - Built upon the Yelp and Google lead gen, this app uses Open AI's gpt-5.6-luna model to enrich each lead with intelligent insights. Leads are collected using Google Places API, with a drop down menu to select a company for AI enrichment (company summary, products/services, sales insights, and reasoning for qualification). The app is restricted to demo-mode with examples leads to prevent real API usage. DEPLOYED - Live link: [AI Lead Gen](https://ai-sales-lead-gen.onrender.com/)
 NOTE: Render's free tier may take 30-60 seconds to respond, or occasionally return a temporary error. Retrying resolves it, subsequent requests are fast.
 
-- **Ad Generator** - A Streamlit app that generates professional ad copy using Claude AI. Enter a product, audience, and tone, and get three ready-to-use ad variants in seconds. Uses custom CSS styling and has a download button to save ads. The app is currently private due to costs of API call. See the app here: [Streamlit App - Ad Generator ](https://github.com/NewManRising/ad-copy-generator)
+- **Ad Generator** - A Streamlit app that generates professional ad copy using Claude AI. Enter a product, audience, and tone, and get three ready-to-use ad variants in seconds. Uses custom CSS styling and has a download button to save ads. The app is currently private due to costs of API calls. Code available here, live demo pending a cost-safe demo mode: [Streamlit App - Ad Generator ](https://github.com/NewManRising/ad-copy-generator)
 
-- **Home Loan Default Prediction** - Binary classification project using a Keras artificial neural network (ANN) to predict whether a borrower will default on a home equity loan. Trained on the HMEQ dataset from Kaggle with an 80/20 class imbalance. See it here: [Home Loan Default Prediction](https://github.com/NewManRising/home-loan-default-prediction)
 
 - **ML API using FastAPI** - Trained, hypertuned, wrapped in pipeline, and saved model. Used a FastAPI endpoint that uses a machine learing model (bank loan risk prediction and score). DEPLOYED - Live link: [FastAPI ML API](https://ai-ml-apprenticeship.onrender.com/docs)
 
@@ -80,10 +76,13 @@ NOTE: Render's free tier may take 30-60 seconds to respond, or occasionally retu
     <td><img src="https://streak-stats.demolab.com/?user=NewManRising&theme=tokyonight&hide_border=true" width="500"/></td>
   </tr>
   <tr>
-    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NewManRising&layout=compact&theme=tokyonight&hide_border=true" width="500"/></td>
-    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=NewManRising&theme=tokyo-night&hide_border=true" width="500"/></td>
+    <td colspan="2" align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=NewManRising&layout=compact&theme=tokyonight&hide_border=true" width="500"/></td>
   </tr>
 </table>
+
+
+
+
 
 ---
 ## Connect
